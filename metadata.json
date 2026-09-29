@@ -1,0 +1,6 @@
+{
+  "name": "Katingawan SDA Elementary School",
+  "description": "Official school website for Katingawan SDA Elementary School featuring school events calendar, teacher faculty directories, academic programs, and secure parent portal for grades, attendance, and tuition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
